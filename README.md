@@ -5,3 +5,4 @@ https://www.learnpython.org/
 
 https://www.w3schools.com/python/default.asp
 
+https://www.codementor.io/community/topic/python
