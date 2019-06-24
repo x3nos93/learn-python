@@ -1,5 +1,5 @@
 # learn-python
-<title>Learn Python with me!</title>
+Learn Python with me!
 
 https://www.learnpython.org/
 
