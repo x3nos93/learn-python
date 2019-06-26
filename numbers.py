@@ -2,7 +2,6 @@ x = 1.3
 y = 35E3
 z = 1j
 
-#print("Number Type: " + type(x) + ", " + "Number: " + x)
 print(type(x))
 print(x)
 print(" ")
