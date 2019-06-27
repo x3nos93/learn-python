@@ -1,16 +1,18 @@
-x = 1.3
-y = 35E3
-z = 1j
+<class 'float'>
+1.3
 
-print(type(x))
-print(x)
-print(" ")
-print(type(y))
-print(y)
-print(" ")
-print(type(z))
-print(z)
-print(" ")
+<class 'float'>
+35000.0
+
+<class 'complex'>
+1j
+
+90
+<class 'int'>
+1
+<class 'int'>
+35000
+
 
 import random
 print(random.randrange(1,100))
